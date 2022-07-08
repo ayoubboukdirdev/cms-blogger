@@ -26,4 +26,5 @@ Server start
 php artisan serve
 ```
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg?style=center)
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
