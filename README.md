@@ -23,7 +23,7 @@ php artisan storage:link
 
 Server start
 ```bash
-php artisan ser
+php artisan serve
 ```
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg?style=centerme)
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg?style=center)
